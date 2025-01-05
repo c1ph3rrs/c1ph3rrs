@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [ib-mughal.com](ib-mughal.com)
 
+- 👨‍💻 All of my projects are available at [ebrium.codes](https://ebrium.codes/)
+
 - 💬 Ask me about **Flutter, Scrapy, Python**
 
 - 📫 How to reach me **ib_mughal@icloud.com**
