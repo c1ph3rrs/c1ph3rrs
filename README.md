@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Flutter, Scrapy, Python**
 
-- 📫 How to reach me **ib_mughal@icloud.com**
+- 📫 How to reach me **hello@ebrium.codes**
 
 - ⚡ Fun fact **I think i'm funny**
 
