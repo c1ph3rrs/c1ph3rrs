@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [ebrium.codes](https://ebrium.codes/)
 
-- 💬 Ask me about **Flutter, Scrapy, Python**
+- 💬 Ask me about **Flutter, Scrapy, Python, AWS Cloud Services, **
 
 - 📫 How to reach me **hello@ebrium.codes**
 
