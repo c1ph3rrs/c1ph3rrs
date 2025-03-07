@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ib__mughal" target="blank"><img src="https://img.shields.io/twitter/follow/ib__mughal?logo=twitter&style=for-the-badge" alt="ib__mughal" /></a> </p>
 
-- 🔭 I’m currently working on **ERPNext**
+- 🔭 I’m currently working on **LangChain**
 
 - 🌱 I’m currently learning **Data Science**
 
